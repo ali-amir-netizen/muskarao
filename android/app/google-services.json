@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441800780698",
+    "project_id": "muskaraoapp",
+    "storage_bucket": "muskaraoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441800780698:android:497f05f17634548ce5a823",
+        "android_client_info": {
+          "package_name": "com.muskarao.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIuPJjeLqVdgHy6K00hsfEtxVYL6iUiRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
